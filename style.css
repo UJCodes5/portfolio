@@ -486,6 +486,12 @@ h2 {
   .footer ul {
     font-size: 12px;
   }
+    .left-Section {
+    padding-left: 0;
+  }
+  .logo{
+    left: 2.5rem;
+  }
 }
 
 
@@ -559,3 +565,4 @@ h2 {
 .contact-info a:hover {
   color: #f1c40f; /* Golden hover */
 }
+
